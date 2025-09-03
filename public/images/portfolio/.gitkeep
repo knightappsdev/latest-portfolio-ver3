@@ -1,0 +1,14 @@
+# Portfolio Images Directory
+
+This directory contains all portfolio project images.
+
+## Directory Structure:
+- `/images/portfolio/` - Main portfolio images
+- `/images/profile/` - Profile and personal images
+- `/images/icons/` - Custom icons and logos
+
+## Image Guidelines:
+- Use WebP format for better compression
+- Fallback to JPG/PNG for compatibility
+- Optimize images before upload
+- Use descriptive filenames
